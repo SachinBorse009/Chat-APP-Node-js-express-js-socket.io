@@ -6,11 +6,6 @@
 ```
 https://github.com/SachinBorse009/Chat-APP-Node-js-express-js-socket.io.git
 ```
-### Step 3: Start the chat app (development mode)
-```
-npm run dev
-```
-
 ### Step 4: Start the chat app
 ```
 npm start
