@@ -6,7 +6,11 @@
 ```
 https://github.com/SachinBorse009/Chat-APP-Node-js-express-js-socket.io.git
 ```
-### Step 4: Start the chat app
+### Step 2: install node modules
+```
+npm install
+````
+### Step 3: Start the chat app
 ```
 npm start
 ```
